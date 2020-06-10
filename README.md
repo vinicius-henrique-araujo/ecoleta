@@ -1,6 +1,6 @@
 # ECOLETA
 Atividade desenvolvida no Next Level Week da RocketSeat
-##STACKS
+## STACKS
 - TypeScript
 - Express.js
 - Knex
